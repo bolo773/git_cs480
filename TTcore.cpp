@@ -33,7 +33,7 @@
 using namespace cv;
 
 std::fstream *  init(){
-
+//this comment should have no issues
     //init log file
 
     std::cout << "TTCore Version .01 \n";
