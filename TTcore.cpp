@@ -29,14 +29,10 @@
 #include <sstream>
 #include <algorithm>
 #include <iterator>
-//added comment
 using namespace cv;
 
 std::fstream *  init(){
-//this comment should have
-//this comment should have
-    //init log file
-
+//these changes only apply to the master
     std::cout << "TTCore Version .01 \n";
 
     std::cout << "Initializing log File";
@@ -47,7 +43,6 @@ std::fstream *  init(){
     return logfile;
 
 }
-
 
 int interpreter(std::string input ){
 
