@@ -42,7 +42,7 @@ std::fstream *  init(){
     std::fstream * logfile = new std::fstream;
     logfile->open ("TTCore.log");
     *logfile << "Session starts\n";
-
+//this will also have no issues
     return logfile;
 
 }
