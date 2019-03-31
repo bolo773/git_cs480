@@ -68,12 +68,6 @@ int interpreter(std::string input ){
 
 
 int wait_for_motion(VideoCapture* cap){
-//       sql::Driver * driver;
-//       sql::Connection *con;
-//       sql::Statement *stmt;
-//       sql::ResultSet *res;
-
- //      driver = get_driver_instance();
 
 
        Mat frame1, frame2;
