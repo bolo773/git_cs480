@@ -33,11 +33,8 @@
 using namespace cv;
 
 std::fstream *  init(){
-<<<<<<< HEAD
 //this comment should have
-=======
 //this comment should have
->>>>>>> 4fc54a0ab47623f1161b761355d24e76a7f9f8a0
     //init log file
 
     std::cout << "TTCore Version .01 \n";
