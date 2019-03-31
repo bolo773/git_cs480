@@ -30,7 +30,7 @@
 #include <algorithm>
 #include <iterator>
 using namespace cv;
-
+//edit
 std::fstream *  init(){
 //these changes only apply to the master
     std::cout << "TTCore Version .01 \n";
